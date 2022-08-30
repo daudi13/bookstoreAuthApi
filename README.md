@@ -9,7 +9,8 @@ This is the backend section of the bookstorecms website built with ruby on rails
 - Remove a selected book.
 
 Check the live demo [here](https://bookstorecms2022.herokuapp.com/)
-check the frontend repo [here](https://github.com/daudi13/bookstore)
+
+Check the frontend repo [here](https://github.com/daudi13/bookstore)
 
 
 ## Built with
