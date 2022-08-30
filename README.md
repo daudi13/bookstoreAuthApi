@@ -1,24 +1,46 @@
-# README
+# Bookstore
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+![](./Screenshot%20.png)
+This is the backend section of the bookstorecms website built with ruby on rails, devise-jwt and postgresql for the database: The website can:
 
-Things you may want to cover:
 
-* Ruby version
+- Display a list of books.
+- Add a book.
+- Remove a selected book.
 
-* System dependencies
+Check the live demo [here](https://bookstorecms2022.herokuapp.com/)
+check the frontend repo [here](https://github.com/daudi13/bookstore)
 
-* Configuration
 
-* Database creation
+## Built with
+- Ruby
+- device-jwt
+- postgresql
 
-* Database initialization
+## Getting Started
+To get a local copy up and running follow the steps below
 
-* How to run the test suite
+### 
+- clone this repo by copy pasting this on your terminal ``git clone https://github.com/daudi13/bookstoreAuthApi``
 
-* Services (job queues, cache servers, search engines, etc.)
+- open the project folder 'cd bookstoreAuthApi'
+- Run 'bundle install' to install all dependencies
+- Run 'ruby s' to start the live server
 
-* Deployment instructions
+## Author
+**David Ouma**
+- Github: [@daudi13](https://github.com/daudi13/)
+- Twitter: [@davouma](https://github.com/daudi13/)
 
-* ...
+## Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/daudi13/math-magician/issues)
+
+## Show your Support
+Give a star if you like this project!
+
+
+## License
+This project is under the [MIT](./LICENSE) license.
+
